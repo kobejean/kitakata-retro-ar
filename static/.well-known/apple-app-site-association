@@ -3,7 +3,7 @@
         "details": [
             {
                 "appIDs": [
-                    "Q74A2VY23K.com.kobejean.KitakataRetroAR",
+                    "Q74A2VY23K.com.kobejean.KitakataRetroAR"
                 ],
                 "components": [
                     {
@@ -14,6 +14,10 @@
                     {
                         "/": "/ar-models/*",
                         "comment": "Matches any URL with a path that starts with /ar-models/."
+                    },
+                    {
+                        "/": "/ar-location/*",
+                        "comment": "Matches any URL with a path that starts with /ar-location/."
                     },
                     {
                         "/": "/help/website/*",
