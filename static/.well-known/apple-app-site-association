@@ -3,7 +3,8 @@
         "details": [
             {
                 "appIDs": [
-                    "Q74A2VY23K.com.kobejean.KitakataRetroAR"
+                    "Q74A2VY23K.com.kobejean.KitakataRetroAR",
+                    "Q74A2VY23K.com.kobejean.KitakataRetroAR.Clip"
                 ],
                 "components": [
                     {
@@ -37,7 +38,8 @@
     },
     "webcredentials": {
         "apps": [
-            "Q74A2VY23K.com.kobejean.KitakataRetroAR"
+            "Q74A2VY23K.com.kobejean.KitakataRetroAR",
+            "Q74A2VY23K.com.kobejean.KitakataRetroAR.Clip"
         ]
     },
     "appclips": {
