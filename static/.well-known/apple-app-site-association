@@ -3,7 +3,7 @@
         "details": [
             {
                 "appIDs": [
-                    "Q74A2VY23K.com.kobejean.KitakataRetroAR"
+                    "Q74A2VY23K.com.kobejean.KitakataRetroAR",
                 ],
                 "components": [
                     {
@@ -12,8 +12,8 @@
                         "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
                     },
                     {
-                        "/": "/ar-model/*",
-                        "comment": "Matches any URL with a path that starts with /ar-model/."
+                        "/": "/ar-models/*",
+                        "comment": "Matches any URL with a path that starts with /ar-models/."
                     },
                     {
                         "/": "/help/website/*",
