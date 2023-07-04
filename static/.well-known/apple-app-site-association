@@ -12,8 +12,8 @@
                         "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
                     },
                     {
-                        "/": "/ar-models/*",
-                        "comment": "Matches any URL with a path that starts with /ar-models/."
+                        "/": "/ar-model/*",
+                        "comment": "Matches any URL with a path that starts with /ar-model/."
                     },
                     {
                         "/": "/ar-location/*",
